@@ -1,4 +1,4 @@
-# Reg-Form
+
 
 
 The registration form is a web-based form that allows users to provide their information for creating an account or registering for a service. The form consists of various input fields where users can enter their personal details such as name, email, address, and additional relevant information. Along with the input fields, the form includes two buttons: "Submit" and "Reset."
