@@ -1,5 +1,5 @@
 
-
+# User-Registration-and-Profile-Management-System
 
 The registration form is a web-based form that allows users to provide their information for creating an account or registering for a service. The form consists of various input fields where users can enter their personal details such as name, email, address, and additional relevant information. Along with the input fields, the form includes two buttons: "Submit" and "Reset."
 
@@ -9,7 +9,7 @@ The registration form is a web-based form that allows users to provide their inf
 
 This registration form provides a user-friendly interface for capturing user data and facilitates the registration process. It ensures that user inputs are securely collected and processed, contributing to a seamless and reliable registration experience.
 
-
+#Screenshots
 
 
 ![358542903_1727645281029335_2852606028225905620_n](https://github.com/Labonnya/User-Registration-and-Profile-Management-System/assets/75426550/0fb55af1-93f0-43ee-8919-9b5cee27916b)
